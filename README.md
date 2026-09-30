@@ -2,6 +2,8 @@
 
 I'm a **marketing leader exploring Context Engineering for Marketing & Knowledge Work**, with a focus on B2B strategy, content, brand, GTM and market intelligence.
 
+My background spans marketing leadership, content design and knowledge workflows across B2B technology, fintech and digital products.
+
 **Marketing Strategy → AI-native Marketing Systems → Agent Skills → Context Engineering for Marketing & Knowledge Work**
 
 I study how to structure the knowledge an agent should load, trust and use: canonical sources, context boundaries, evidence, routing, verification and human decisions.
