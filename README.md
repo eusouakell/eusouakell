@@ -29,6 +29,13 @@ I study how to structure the knowledge an agent should load, trust and use: cano
 
 My work connects marketing decisions to the context and governance needed for reliable agent-assisted knowledge work. The public projects use reusable abstractions and exclude proprietary company knowledge.
 
+## Certification
+
+<a href="https://www.credly.com/badges/7656635d-9459-45c4-b4f1-fe7c3cc56141"><img src="https://images.credly.com/size/340x340/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="120" alt="Google Cloud — Generative AI Leader Certification"/></a>
+
+**Google Cloud — Generative AI Leader Certification**  
+Issued September 21, 2026 · Expires September 21, 2029 · [Verify credential](https://www.credly.com/badges/7656635d-9459-45c4-b4f1-fe7c3cc56141)
+
 ## Writing and speaking
 
 I write [Cereja Flamejante](https://cerejaflamejante.substack.com/) and am a speaker with [Escola da Transformação Digital (Escola TD)](https://escolatd.com.br/).
