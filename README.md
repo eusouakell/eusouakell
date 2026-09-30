@@ -29,12 +29,17 @@ I study how to structure the knowledge an agent should load, trust and use: cano
 
 My work connects marketing decisions to the context and governance needed for reliable agent-assisted knowledge work. The public projects use reusable abstractions and exclude proprietary company knowledge.
 
-## Certification
+## Certifications and accreditations
 
 <a href="https://www.credly.com/badges/7656635d-9459-45c4-b4f1-fe7c3cc56141"><img src="https://images.credly.com/size/340x340/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="120" alt="Google Cloud — Generative AI Leader Certification"/></a>
 
 **Google Cloud — Generative AI Leader Certification**  
 Issued September 21, 2026 · Expires September 21, 2029 · [Verify credential](https://www.credly.com/badges/7656635d-9459-45c4-b4f1-fe7c3cc56141)
+
+<a href="https://credentials.databricks.com/c8045bea-450b-49ca-9346-637eaf1e8b99"><img src="https://templates.images.credential.net/17398951176963021610006048350100.png" width="120" alt="Databricks Academy Accreditation — Generative AI Fundamentals"/></a>
+
+**Databricks Academy Accreditation — Generative AI Fundamentals**  
+Issued March 22, 2026 · Does not expire · [Verify credential](https://credentials.databricks.com/c8045bea-450b-49ca-9346-637eaf1e8b99)
 
 ## Writing and speaking
 
