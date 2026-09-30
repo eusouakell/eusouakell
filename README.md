@@ -58,6 +58,17 @@ These credentials record partner training, separately from professional certific
 
 </details>
 
+<details>
+<summary>UX research and design coursework</summary>
+
+[![Google via Coursera — UX research and ideation](https://img.shields.io/badge/Google%20via%20Coursera-UX%20research%20%26%20ideation-7047A3?style=flat-square)](https://www.coursera.org/account/accomplishments/verify/5LAL37CP68AF)
+
+**[Iniciar o processo de design de UX: criar empatia, definir e idealizar](https://www.coursera.org/account/accomplishments/verify/5LAL37CP68AF)** — Google, offered through Coursera. Completed June 17, 2025.
+
+Individual course completion certificate covering user research, problem definition and ideation.
+
+</details>
+
 ## Writing and speaking
 
 I write [Cereja Flamejante](https://cerejaflamejante.substack.com/) and am a speaker with [Escola da Transformação Digital (Escola TD)](https://escolatd.com.br/).
