@@ -35,4 +35,5 @@ I write [Cereja Flamejante](https://cerejaflamejante.substack.com/) and am a spe
 
 [![Newsletter: Cereja Flamejante](https://img.shields.io/badge/Newsletter-Cereja%20Flamejante-B63655?style=flat-square&logo=substack&logoColor=white)](https://cerejaflamejante.substack.com/)
 [![Speaking: Escola TD](https://img.shields.io/badge/Speaking-Escola%20TD-7047A3?style=flat-square)](https://escolatd.com.br/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eusouakell.com.br-B63655?style=flat-square)](https://eusouakell.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/eusouakell/)
