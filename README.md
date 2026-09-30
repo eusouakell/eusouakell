@@ -1,3 +1,5 @@
+![Kell Bonassoli — Context Engineering for Marketing & Knowledge Work](assets/context-engineering-banner.svg)
+
 # Hi, I'm Kell Bonassoli
 
 I'm a **marketing leader exploring Context Engineering for Marketing & Knowledge Work**, with a focus on B2B strategy, content, brand, GTM and market intelligence.
@@ -10,6 +12,12 @@ I study how to structure the knowledge an agent should load, trust and use: cano
 
 > The goal is not maximum context. The goal is minimum sufficient, authoritative context with measurable effect.
 
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-7047A3?style=flat-square)
+![Marketing Strategy](https://img.shields.io/badge/Marketing%20Strategy-B63655?style=flat-square)
+![Knowledge Architecture](https://img.shields.io/badge/Knowledge%20Architecture-7047A3?style=flat-square)
+![Agent Skills](https://img.shields.io/badge/Agent%20Skills-B63655?style=flat-square)
+![Responsible AI](https://img.shields.io/badge/Responsible%20AI-7047A3?style=flat-square)
+
 ## Projects and provenance
 
 | Project | Role and current evidence |
@@ -21,4 +29,10 @@ I study how to structure the knowledge an agent should load, trust and use: cano
 
 My work connects marketing decisions to the context and governance needed for reliable agent-assisted knowledge work. The public projects use reusable abstractions and exclude proprietary company knowledge.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/eusouakell/)
+## Writing and speaking
+
+I write [Cereja Flamejante](https://cerejaflamejante.substack.com/) and am a speaker with [Escola da Transformação Digital (Escola TD)](https://escolatd.com.br/).
+
+[![Newsletter: Cereja Flamejante](https://img.shields.io/badge/Newsletter-Cereja%20Flamejante-B63655?style=flat-square&logo=substack&logoColor=white)](https://cerejaflamejante.substack.com/)
+[![Speaking: Escola TD](https://img.shields.io/badge/Speaking-Escola%20TD-7047A3?style=flat-square)](https://escolatd.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/eusouakell/)
