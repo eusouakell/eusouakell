@@ -29,7 +29,7 @@ I study how to structure the knowledge an agent should load, trust and use: cano
 
 My work connects marketing decisions to the context and governance needed for reliable agent-assisted knowledge work. The public projects use reusable abstractions and exclude proprietary company knowledge.
 
-## Certifications and accreditations
+## Credentials and learning
 
 <a href="https://www.credly.com/badges/7656635d-9459-45c4-b4f1-fe7c3cc56141"><img src="https://images.credly.com/size/340x340/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="120" alt="Google Cloud — Generative AI Leader Certification"/></a>
 
@@ -40,6 +40,11 @@ Issued September 21, 2026 · Expires September 21, 2029 · [Verify credential](h
 
 **Databricks Academy Accreditation — Generative AI Fundamentals**  
 Issued March 22, 2026 · Does not expire · [Verify credential](https://credentials.databricks.com/c8045bea-450b-49ca-9346-637eaf1e8b99)
+
+<a href="https://www.brasilopenbadge.com.br/pages/badge/aa5c3ea295d349fc4a7ce9dd4da17f37"><img src="https://www.brasilopenbadge.com.br/badge/3746.png" width="120" alt="ESPM — Formação em Product Marketing Manager"/></a>
+
+**[Formação em Product Marketing Manager — ESPM / Dynamic](https://www.brasilopenbadge.com.br/pages/badge/aa5c3ea295d349fc4a7ce9dd4da17f37)**  
+Professional development course, 30 hours. Completed December 10, 2022 · Badge issued December 20, 2022 · Does not expire.
 
 [![Notion Academy — Notion Advanced Quiz](https://img.shields.io/badge/Notion%20Academy-Notion%20Advanced%20Quiz-000000?style=flat-square&logo=notion&logoColor=white)](https://verify.skilljar.com/c/c9cwonc7iwd5)
 
@@ -72,6 +77,8 @@ Issued January 14, 2025. Foundational learning badge for the two-hour course; th
 <summary>UX research and design coursework</summary>
 
 [![Google via Coursera — UX research and ideation](https://img.shields.io/badge/Google%20via%20Coursera-UX%20research%20%26%20ideation-7047A3?style=flat-square)](https://www.coursera.org/account/accomplishments/verify/5LAL37CP68AF)
+
+**[Fundamentos do design da experiência do usuário (UX)](https://www.coursera.org/account/accomplishments/verify/RNX5CW0S66T3)** — Google, offered through Coursera. Completed November 11, 2024. Individual course completion certificate.
 
 **[Iniciar o processo de design de UX: criar empatia, definir e idealizar](https://www.coursera.org/account/accomplishments/verify/5LAL37CP68AF)** — Google, offered through Coursera. Completed June 17, 2025.
 
