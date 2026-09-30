@@ -41,6 +41,18 @@ Issued September 21, 2026 · Expires September 21, 2029 · [Verify credential](h
 **Databricks Academy Accreditation — Generative AI Fundamentals**  
 Issued March 22, 2026 · Does not expire · [Verify credential](https://credentials.databricks.com/c8045bea-450b-49ca-9346-637eaf1e8b99)
 
+<details>
+<summary>Additional Databricks partner training</summary>
+
+<a href="https://credentials.databricks.com/102a66d4-81f0-4a06-a663-510665007135"><img src="https://templates.images.credential.net/17756452229743455529545595217602.png" width="100" alt="Databricks Partner Training — FSI Knowledge Badge"/></a>
+
+- **[Partner Training — (Industry) FSI Knowledge Badge](https://credentials.databricks.com/102a66d4-81f0-4a06-a663-510665007135)** — financial services customer engagement, value proposition and opportunity identification. Issued August 17, 2026 · Expires August 17, 2028.
+- **[Partner Training — 2026 Data + AI Summit Product Announcement Enablement for Partners](https://credentials.databricks.com/b117175a-d8ba-470c-804a-f58db94749fc)** — training on product announcements. Issued September 14, 2026 · Expires September 14, 2027.
+
+These credentials record partner training, separately from professional certification.
+
+</details>
+
 ## Writing and speaking
 
 I write [Cereja Flamejante](https://cerejaflamejante.substack.com/) and am a speaker with [Escola da Transformação Digital (Escola TD)](https://escolatd.com.br/).
