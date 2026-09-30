@@ -41,6 +41,11 @@ Issued September 21, 2026 · Expires September 21, 2029 · [Verify credential](h
 **Databricks Academy Accreditation — Generative AI Fundamentals**  
 Issued March 22, 2026 · Does not expire · [Verify credential](https://credentials.databricks.com/c8045bea-450b-49ca-9346-637eaf1e8b99)
 
+[![Notion Academy — Notion Advanced Quiz](https://img.shields.io/badge/Notion%20Academy-Notion%20Advanced%20Quiz-000000?style=flat-square&logo=notion&logoColor=white)](https://verify.skilljar.com/c/c9cwonc7iwd5)
+
+**Notion Advanced Quiz — Notion Academy & Certifications**  
+Completed September 26, 2025 · Expires September 26, 2027 · [Verify certificate](https://verify.skilljar.com/c/c9cwonc7iwd5)
+
 <details>
 <summary>Additional Databricks partner training</summary>
 
