@@ -59,6 +59,16 @@ These credentials record partner training, separately from professional certific
 </details>
 
 <details>
+<summary>Additional AI learning</summary>
+
+<a href="https://www.credly.com/badges/ad8a4da0-ae28-4c57-b22d-9088a926466e"><img src="https://images.credly.com/size/340x340/images/967650a9-6aaa-4e6e-81df-0f83fd184acf/f9681bc8-450d-40fd-81c4-a3a20e483c0b.png" width="100" alt="O'Reilly Media — Effective ChatGPT Prompts"/></a>
+
+**[Effective ChatGPT Prompts — O'Reilly Media](https://www.credly.com/badges/ad8a4da0-ae28-4c57-b22d-9088a926466e)**  
+Issued January 14, 2025. Foundational learning badge for the two-hour course; the issuer requires at least 80% completion.
+
+</details>
+
+<details>
 <summary>UX research and design coursework</summary>
 
 [![Google via Coursera — UX research and ideation](https://img.shields.io/badge/Google%20via%20Coursera-UX%20research%20%26%20ideation-7047A3?style=flat-square)](https://www.coursera.org/account/accomplishments/verify/5LAL37CP68AF)
