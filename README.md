@@ -21,7 +21,6 @@ I work on the layer around prompts: knowledge authority, context routing, agent 
 | [**Flame Design System**](https://github.com/eusouakell/cereja-knowledge-system/tree/main/brand/flame) | Visual, interaction, motion and accessibility system for Cereja | V0.x / being validated |
 | [**Bússola**](https://github.com/eusouakell/bussola) | Collaborative Itaú × Google hackathon case exploring governed agentic action | Public case / fork |
 
-[Marketing Skills](https://github.com/eusouakell/marketingskills) is a reference fork of [Corey Haines and contributors' library](https://github.com/coreyhaines31/marketingskills); upstream authorship remains theirs.
 
 ![From thesis to evidence](assets/positioning-path.svg)
 
