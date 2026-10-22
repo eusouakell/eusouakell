@@ -48,20 +48,17 @@ for label in social_badges:
     check(f"img.shields.io/badge/{label}" in text, f"Missing social/action badge: {label}")
 
 # Keep traceable evidence and provenance; avoid silent author-credit changes.
+# Bússola was removed from the profile on 2026-10-22 at Kell's decision (project
+# closed/wrapped). If it is ever re-added, restore the "bussola"/"theguitarvity"
+# required references and the Victor-credit check below (see git history).
 for required in (
     "context-engineering-for-marketing",
     "marketing-context-system",
     "cereja",
-    "bussola",
     "PROJECTS.md",
     "CREDENTIALS.md",
-    "theguitarvity",
 ):
     check(required.lower() in text.lower(), f"Missing important profile reference: {required}")
-check(
-    "Victor" in text and ("led" in text or "original" in text),
-    "The Bússola project must retain credit for Victor's original technical work.",
-)
 
 if errors:
     print("Profile README editorial gate failed:")
