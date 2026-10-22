@@ -25,8 +25,8 @@ My working thesis: **less context, better selected** — authoritative sources, 
 ## What I'm building
 
 - **[Context Engineering for Marketing](https://github.com/eusouakell/context-engineering-for-marketing)** — my public research lab for context architecture, knowledge authority and experiments.
-- **[Marketing Context System](https://github.com/eusouakell/marketing-context-system)** — an executable reference for selecting, excluding and verifying task context. The experiments are still being evaluated; no performance advantage is claimed.
-- **[Cereja Flamejante](https://cerejaflamejante.substack.com/)** — my public lab for writing and knowledge work, supported by a [Knowledge System](https://github.com/eusouakell/cereja-knowledge-system) and a human-governed [Editorial Engine](https://github.com/eusouakell/cereja-editorial-engine).
+- **Marketing Context System** 🔒 (private repository: `eusouakell/marketing-context-system`) — an executable reference for selecting, excluding and verifying task context. The experiments are still being evaluated; no performance advantage is claimed.
+- **[Cereja Flamejante](https://cerejaflamejante.substack.com/)** — my public lab for writing and knowledge work, supported by a Knowledge System 🔒 and a human-governed Editorial Engine 🔒 (both private repositories).
 - **[Bússola](https://github.com/eusouakell/bussola)** — a collaborative Itaú × Google hackathon project. [Victor Lopes](https://github.com/theguitarvity) led the original technical repository and implementation; my work covers design, strategy, research, context, documentation and the subsequent UX review.
 
 [Explore the evidence behind these projects →](PROJECTS.md)
