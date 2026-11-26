@@ -26,7 +26,7 @@ My working thesis: **less context, better selected** — authoritative sources, 
 
 - **[Context Engineering for Marketing](https://github.com/eusouakell/context-engineering-for-marketing)** — my public research lab for context architecture, knowledge authority and experiments.
 - **Marketing Context System** 🔒 (private repository: `eusouakell/marketing-context-system`) — an executable reference for selecting, excluding and verifying task context. The experiments are still being evaluated; no performance advantage is claimed.
-- **[Cereja Flamejante](https://cerejaflamejante.substack.com/)** — my public lab for writing and knowledge work, supported by a Knowledge System 🔒 and a human-governed Editorial Engine 🔒 (both private repositories).
+- **[Cereja Flamejante](https://cerejaflamejante.substack.com/)** — my public lab for writing and knowledge work.
 
 [Explore the evidence behind these projects →](PROJECTS.md)
 
